@@ -2,7 +2,7 @@
 
 ## Creating a Mural Account 
 (**NOTE:** if you already have a mural account, please skip this step and simply login)
-1. Go to [Mural](mural.co) 
+1. Go to [Mural](https://mural.co/) 
 2. Create a free account by selecting, "sign up, free forever"
 3. Provide your First Name, Last Name, & Email Address to sign up as a free member. 
 
