@@ -6,7 +6,7 @@ Each team should appoint 1 person as the `Team Leader` to submit the artifacts b
 
 **Submission Link:** [virtual.hackathon.io](virtual.hackathon.io)
 
->For a project to qualify as a submission, it must be discoverable using the Mandatory GitHub Topics. See [repo requirements](./repo-requirements.md)
+>For a project to qualify as a submission, it must be discoverable using the Mandatory GitHub Topics. See [repo requirements](./repo-requirements.md).
 
 ## Submission Artifacts
 This document describes the list of ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Optional, ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Suggested, and ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Required artifacts associated with a well organized project submission. 
@@ -35,7 +35,7 @@ The video should include:
 Refer to the [video creation guide](./video-creation-guide.md) for instructions on recording your pitch video.
 
 ### Well organized GitHub Repo
-ALL teams are required to submit a well organized GitHub repository for judging. Please refer to the [repo instructions](./repo-instructions.md).
+ALL teams are required to submit a well organized GitHub repository for judging. Please refer to the [repo instructions](./repo-requirements.md).
 
 ### Concept Show-n-Tell Video 
 
