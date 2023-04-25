@@ -18,7 +18,7 @@ Challenge 2 offers one event track.
 
     ```
     $ cd <REPO_FOLDER>
-    $ cp -Rv ./common/* ./hackproject/
+    $ cp -Rv ./challenges/common/* ./hackproject/
     $ cp -Rv ./challenges/challenge2/* ./hackproject/
     $ rm -f ./hackproject/setup.md
     $ rm -f ./hackproject/.gitkeep
