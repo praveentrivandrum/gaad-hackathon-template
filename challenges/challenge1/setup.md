@@ -21,7 +21,7 @@ Challenge 1 offers two (2) event tracks. Each participating team must select the
 
     ```
     $ cd <REPO_FOLDER>
-    $ cp -Rv ./common/* ./hackproject/
+    $ cp -Rv ./challenges/common/* ./hackproject/
     $ cp -Rv ./challenges/challenge1/* ./hackproject/
     $ rm -f ./hackproject/setup.md
     $ rm -f ./hackproject/.gitkeep
