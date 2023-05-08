@@ -10,8 +10,7 @@
   Organize TOC to meet needs or project
 --->
 #### Table of Contents
-- [Discover accessibility platform](#use-case-story-title)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
   - [Acknowledgements](#acknowledgements)
   - [Business Challenge](#business-challenge)
     - [Concept](#concept)
