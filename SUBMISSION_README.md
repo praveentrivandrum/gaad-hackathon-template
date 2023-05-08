@@ -32,12 +32,13 @@
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | xxxxxxxx |
+| Project Team Name | ADA Ninja |
 | Project Name | xxxxxxxx |
-| Challenge | xxxxxxxx |
-| Event Track | xxxxxxxx |
+| Challenge | 1 |
+| Event Track | Design Thinking |
 
 ## Use Case Abstract
+Design for providing a accessibility solution to special needs customers on DFS Account center website.
 <!--- Template Instructions  
   Provide a brief description of the use case tackled by the team.
 --->
@@ -84,6 +85,9 @@ Our team members came together because ...
  
 | Name | Organization |
 | --- | --- |
-| [Name](social-url) | ??? |
-| [Name](social-url) | ??? |
+| [Ankur Bansal](social-url) | DFS BT |
+| [Praveen Prasanna Kumar](social-url) | DFS BT |
+| [Akhil Koothal](social-url) | DFS BT |
+| [Abhishek Tiwari](social-url) | DFS BT|
+
 
