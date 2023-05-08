@@ -33,7 +33,7 @@
 | Event Attribute| Description |
 | --- | --- |
 | Project Team Name | ADA Ninja |
-| Project Name | xxxxxxxx |
+| Project Name | Discover Accessibility Platform |
 | Challenge | 1 |
 | Event Track | Design Thinking |
 
