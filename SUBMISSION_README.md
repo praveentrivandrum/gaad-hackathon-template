@@ -88,6 +88,6 @@ Our team members came together because ...
 | [Ankur Bansal](social-url) | DFS BT |
 | [Praveen Prasanna Kumar](social-url) | DFS BT |
 | [Akhil Koothal](social-url) | DFS BT |
-| [Abhishek Tiwari](social-url) | DFS BT|
+| [Abhishek Tiwari](https://www.linkedin.com/in/abhishektiwari39/) | DFS BT|
 
 
