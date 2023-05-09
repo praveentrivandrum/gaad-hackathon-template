@@ -17,6 +17,7 @@
 --->
  
 # Project Name
+
 <!--- Template Instructions  
   Each Participating Team will have a unique name. Each Team will create a unique name for their project. Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
 --->
@@ -33,7 +34,7 @@
 | Event Attribute| Description |
 | --- | --- |
 | Project Team Name | ADA Ninja |
-| Project Name | Discover Accessibility Platform |
+| Project Name | Next Gen Accessibility |
 | Challenge | 1 |
 | Event Track | Design Thinking |
 
@@ -60,7 +61,7 @@ Design for providing a accessibility solution to special needs customers on DFS 
 
 | Deliverable | Purpose |
 | --- | --- |
-| [Use Case Story](./hackproject/usecase.md) | Supporting material for judges. | 
+| [Use Case Story](./challenges/challenge1/usecase/story-template.md) | Supporting material for judges. | 
 | [Visual Collaboration Board URL]() | Supporting development material for team. | 
 | [Visual Collaboration Board Artifacts](./hackproject/media/board) | Supporting development material for team. | 
 | [Design Thinking Playback Brief](./presentations/playback-brief.ppt)| Supporting development material for team. | 
