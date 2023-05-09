@@ -124,14 +124,24 @@
   Using the sample persona images in the /images/persona folder, describe the steps of the use case story as they relate to one or more UML Sequence Diagrams.  
 --->
  
-### Step 1
-<img src="./images/persona/Darius.png" width="40" height="40"> Darius conveys impairment preferences to <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica.
+### Login
  
-![step1](./images/uml/sample-sequence-diagram.png)
+![Login](./images/uml/login.png)
+
+### Post Login
  
-### Step 2
+![Post Login](./images/uml/postlogin.png)
+
+### Pay Card with Voice bot
  
-<img src="./images/persona/Angelica.png" width="40" height="40"> Angelica uses <img src="./images/persona/themebuilder.svg" width="40" height="40"> Atomic Accessibility Design Tool to generate a theme. 
+![Pay with voice](./images/uml/payvoicebot.png)
+
+### Pay Card with Chat bot
  
-![step2](./images/uml/sample-sequence-diagram.png)
+![Pay with chat](./images/uml/paychatbot.png)
+
+### Pay Card with Manual
+ 
+![Pay with manual](./images/uml/paynochat.png)
+ 
  
