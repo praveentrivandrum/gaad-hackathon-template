@@ -88,9 +88,7 @@
   Using the sample persona images in the /images/persona folder, describe the steps that are involved in the interactive use case story. The story below is offered as an exemplar.
 --->
 
-<img src="./images/persona/acme-logo.png" width="50" height="40"> Acme Enterprise has been contracted by <img src="./images/sponsors/discover_logo.png" width="50" height="50"> to provide accessible themes. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica uses a theme builder to generate a theme for <img src="./images/persona/Darius.png" width="40" height="40"> Darius. 
-
-![process-workflow](./images/workflow/process-workflow.png)
+![CardFlow_PayMyCard](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/65fd56d3-27c4-433d-a6c8-9ebd12de70f4)
 
 
 ## Demo Workflow
