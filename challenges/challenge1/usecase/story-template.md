@@ -10,8 +10,8 @@
     - [Concept](#concept)
     - [Approach](#approach)
   - [Story](#story)
-    - [Flow_MainMenu](#Flow_MainMenu)
-    - [CardFlow_PayMyCard](#CardFlow_PayMyCard)
+    - [Flow MainMenu](#Flow-MainMenu)
+    - [CardFlow PayMyCard](#CardFlow-PayMyCard)
   - [Demo Workflow](#demo-workflow)
     - [Login](#login)
     - [Post Login](#Post-Login)
@@ -22,19 +22,13 @@
 
  
 ## Business Challenge
-<!--- Template Instructions   
-  Briefly describe the business challenge addressed by this use case story. Design Thinking exercises aid in the development of a clear problem statement. 
---->
+
  Impaired persons feel difficulties in navigating through the websites or mobile apps. Challenge is to address the accessibility requirements for Impaired persons on a finance institution's website while providing a seemless user experience with different tools. 
 ### Concept
-<!--- Template Instructions   
-  Briefly describe how this use case applies Atomic Accessibility Design to the business challenge. Leverage Design Thinking exercises to aid in this endeavor. 
---->
+
  The concept of providing a URL (accessibility.discover.com) or an accessibility app which mirrors discover website functionality along with accessibility features with the product Next Gen Accessibility. This product will provide multiple tools like voice bot , chat bot, accessible keyboard and accessibility options panel to the impaired users so that they can get a seemless experience in the website without any difficulties.
 ### Approach
-<!--- Template Instructions   
-  Describe the end to end interactions of the stakeholders that are pertinent to this use case story. Leverage Design Thinking exercises to aid in this endeavor. 
---->
+
 
 ![pub-workflow](./images/workflow/Approach.png)
  
@@ -44,9 +38,9 @@
 
 _Below story show how a visually impaired banking customer perform a specific task with the help of accessible chatbot._
 
-![Flow_MainMenu](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/6f982398-4b3f-4473-b62d-1f820377dbfd)
+![Flow MainMenu](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/6f982398-4b3f-4473-b62d-1f820377dbfd)
 
-![CardFlow_PayMyCard](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/65fd56d3-27c4-433d-a6c8-9ebd12de70f4)
+![CardFlow PayMyCard](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/65fd56d3-27c4-433d-a6c8-9ebd12de70f4)
 
 
 ## Demo Workflow
