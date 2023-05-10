@@ -41,7 +41,7 @@
   Describe the end to end interactions of the stakeholders that are pertinent to this use case story. Leverage Design Thinking exercises to aid in this endeavor. 
 --->
 
-![pub-workflow](./images/workflow/publication-workflow.png)
+![pub-workflow](./images/workflow/Approach.png)
  
 ## Vernacular
 <!--- Template Instructions   
