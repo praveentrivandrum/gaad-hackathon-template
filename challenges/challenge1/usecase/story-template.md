@@ -81,37 +81,13 @@
   Using the sample persona images in the /images/persona folder, describe the steps that are involved in the interactive use case story. The story below is offered as an exemplar.
 --->
 
-<img src="./images/persona/acme-logo.png" width="50" height="40"> Acme Enterprise has been contracted by <img src="./images/sponsors/discover_logo.png" width="50" height="50"> to provide accessible themes. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica uses a theme builder to generate a theme for <img src="./images/persona/Darius.png" width="40" height="40"> Darius. 
+_Below story show how a visually impaired banking customer perform a specific task with the help of accessible chatbot._
 
-![process-workflow](./images/workflow/process-workflow.png)
+![Flow_MainMenu](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/6f982398-4b3f-4473-b62d-1f820377dbfd)
 
-1. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica opens Theme Building Tool.
-2. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica creates a new design system project within the Theme Building Tool.
-3. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica configures project to produce themes that are either Business (AA) or Government (AAA) [WCAG Compatible][WCAG].
-4. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica adds 10 shades of a color in light and dark mode with corresponding "on color" to the project.
-5. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica defines the base atoms for the theme. This lays the foundation for all light and dark mode calculations. The Theme Building Tool guides <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica through the following steps that **must** occur in sequential order:
+![CardFlow_PayMyCard](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/65fd56d3-27c4-433d-a6c8-9ebd12de70f4)
 
-   1. Select Primary, Secondary, and Tertiary Colors
-   2. Define Light mode background and dark mode background.
-   3. Define Gradient backgrounds, Buttons and Icons colors, and Gradient Text.
 
-6. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica defines other atomic elements (atoms, molecules) that will be used by the theme. The Theme Building Tool guides <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica through the following steps:
-
-   1. Data independent preferences
-      1. Specify minimum desktop target area
-      2. Specify grid system
-      3. Specify animation settings
-   2. Data dependent preferences using decisions associated with Primary, Secondary, Tertiary, Light and Dark Mode background colors. These attribute values are calculated:
-      1. state colors
-      2. Fonts / Typography
-      3. Default Border Settings
-      4. Elevations
-      5. Bevels
-      6. Chart colors
-
-7. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica applies atomic settings to molecules associated with the theme project.
-8. <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica uses the Theme Building Tool to generate theme asset types (JSON, CSS, design tokens).
- 
 ## Demo Workflow
 <!--- Template Instructions   
   Using the sample persona images in the /images/persona folder, describe the steps of the use case story as they relate to one or more UML Sequence Diagrams.  
