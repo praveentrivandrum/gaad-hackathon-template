@@ -10,8 +10,6 @@
     - [Concept](#concept)
     - [Approach](#approach)
   - [Story](#story)
-    - [Flow MainMenu](#Flow-MainMenu)
-    - [CardFlow PayMyCard](#CardFlow-PayMyCard)
   - [Demo Workflow](#demo-workflow)
     - [Login](#login)
     - [Post Login](#Post-Login)
