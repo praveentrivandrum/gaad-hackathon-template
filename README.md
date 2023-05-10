@@ -26,7 +26,7 @@ Distributed under the [Apache License, Version 2.0](http://www.apache.org/licens
 
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
 
-
+https://us05web.zoom.us/j/81605128545?pwd=N25mQWVLcisxMmM1UkIrOUpHNFpNZz09
 
 
 [1]: https://www.finos.org/hosted-events/2023-05-15-gaad-hackathon
