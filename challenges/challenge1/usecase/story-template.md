@@ -30,7 +30,7 @@
 <!--- Template Instructions   
   Briefly describe the business challenge addressed by this use case story. Design Thinking exercises aid in the development of a clear problem statement. 
 --->
- This solution is addressing the accessibility requirements for Impaired persons on a finance institution's website while providing a seemless user experience with different tools. 
+ Impaired persons feel difficulties in navigating through the websites or mobile apps. Challenge is to address the accessibility requirements for Impaired persons on a finance institution's website while providing a seemless user experience with different tools. 
 ### Concept
 <!--- Template Instructions   
   Briefly describe how this use case applies Atomic Accessibility Design to the business challenge. Leverage Design Thinking exercises to aid in this endeavor. 
