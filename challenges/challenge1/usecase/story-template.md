@@ -10,9 +10,9 @@
   Organize TOC to meet needs or project
 --->
 #### Table of Contents
-- [Use Case Story Title](#use-case-story-title) 
+- [Next Gen Accessibility](#use-case-story-title) 
       - [Table of Contents](#table-of-contents)
-  - [Acknowledgements](#acknowledgements)
+
   - [Business Challenge](#business-challenge)
     - [Concept](#concept)
     - [Approach](#approach)
@@ -24,31 +24,24 @@
     - [Step 1](#step-1)
     - [Step 2](#step-2)
 
- 
-## Acknowledgements
 
-<!--- Template Instructions   
-  List any acknowledgements pertaining to the concepts and resources used in this use case story.
---->
-
-1. This scenario leverages a fictitious company called, _Acme Enterprise_. The <img src="./images/persona/acme-logo.png" width="50" height="40"> Acme Enterprise logo is borrowed from [Katie Wickens](https://steins_kake.artstation.com/projects/ebqgb), a graphics designer.
  
 ## Business Challenge
 <!--- Template Instructions   
   Briefly describe the business challenge addressed by this use case story. Design Thinking exercises aid in the development of a clear problem statement. 
 --->
- 
+ Impaired persons feel difficulties in navigating through the websites or mobile apps. Challenge is to address the accessibility requirements for Impaired persons on a finance institution's website while providing a seemless user experience with different tools. 
 ### Concept
 <!--- Template Instructions   
   Briefly describe how this use case applies Atomic Accessibility Design to the business challenge. Leverage Design Thinking exercises to aid in this endeavor. 
 --->
- 
+ The concept of providing a URL (accessibility.discover.com) or an accessibility app which mirrors discover website functionality along with accessibility features with the product Next Gen Accessibility. This product will provide multiple tools like voice bot , chat bot, accessible keyboard and accessibility options panel to the impaired users so that they can get a seemless experience in the website without any difficulties.
 ### Approach
 <!--- Template Instructions   
   Describe the end to end interactions of the stakeholders that are pertinent to this use case story. Leverage Design Thinking exercises to aid in this endeavor. 
 --->
 
-![pub-workflow](./images/workflow/publication-workflow.png)
+![pub-workflow](./images/workflow/Approach.png)
  
 ## Vernacular
 <!--- Template Instructions   
