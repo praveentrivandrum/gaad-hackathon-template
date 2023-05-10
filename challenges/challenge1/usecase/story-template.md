@@ -36,6 +36,8 @@
 
 _Below story show how a visually impaired banking customer perform a specific task with the help of accessible chatbot._
 
+[Untitled_2023-05-10_23-17-54.pdf](https://github.com/praveentrivandrum/gaad-hackathon-template/files/11446617/Untitled_2023-05-10_23-17-54.pdf)
+
 ![Flow-MainMenu](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/6f982398-4b3f-4473-b62d-1f820377dbfd)
 
 ![CardFlow-PayMyCard](https://github.com/praveentrivandrum/gaad-hackathon-template/assets/131910166/65fd56d3-27c4-433d-a6c8-9ebd12de70f4)
