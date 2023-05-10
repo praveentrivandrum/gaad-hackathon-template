@@ -1,14 +1,7 @@
 # Next Gen Accessibility product
 
-<!--- Template Instructions  
-  Update the Story Title and remove the warning below.
---->
 
-![warning](./images/misc/warning.png) Before submitting your project repo, modify template as desired and remove all inline  Template Instructions. 
 
-<!--- Template Instructions  
-  Organize TOC to meet needs or project
---->
 #### Table of Contents
 - [Next Gen Accessibility](#use-case-story-title) 
       - [Table of Contents](#table-of-contents)
@@ -16,13 +9,15 @@
   - [Business Challenge](#business-challenge)
     - [Concept](#concept)
     - [Approach](#approach)
-  - [Vernacular](#vernacular)
-  - [Assumptions](#assumptions)
-  - [Persona](#persona)
   - [Story](#story)
+    - [Flow_MainMenu](#Flow_MainMenu)
+    - [CardFlow_PayMyCard](#CardFlow_PayMyCard)
   - [Demo Workflow](#demo-workflow)
-    - [Step 1](#step-1)
-    - [Step 2](#step-2)
+    - [Login](#login)
+    - [Post Login](#Post-Login)
+    - [Pay Card with Voice bot](#Pay-Card-with-Voice-bot)
+    - [Pay Card with Chat bot](#Pay-Card-with-Chat-bot)
+    - [Pay Card with Manual](#Pay-Card-with-Manual)
 
 
  
@@ -43,43 +38,9 @@
 
 ![pub-workflow](./images/workflow/Approach.png)
  
-## Vernacular
-<!--- Template Instructions   
-  List and describe any terms that will be used in the story and referenced in diagrams. The current list provides a sample starter list. Leverage Design Thinking exercises to aid in the identification of use case archetypes. 
---->
- 
-1. **Impaired Person**: A content consumer with one or more disabilities or disorders. Needs to be able to interact with accessible content to achieve goals.
-2. **Designer**: Defines consistent design language components and style. Needs to be able to create accessible styling for content creators and developers with minimal effort.
-3. **Developer**: Implements design language in software systems that generate content. Needs to be able to create accessibly inclusive renderings with ease.
-4. **Content Creator**: Utilizes the design language to produce consistently styled content. Needs to publish accessible content without extra steps or effort.
-5. **Content Publishing System**: Any system that consumes artifacts from an accessible theme builder to produce physical or digital content that is accessibly compliant. 
- 
 
-## Assumptions
-<!--- Template Instructions   
-  List any assumptions to be considered in this use case story.  Leverage Design Thinking exercises to aid in this endeavor. 
---->
- 
-1. *Enter assumption text ...*
-2. *Enter assumption text ...*
- 
-## Persona
-<!--- Template Instructions   
-  Using the sample persona images in the /images/persona folder, describe the roles of the entities involved in this use case story. The current list provides a sample starter list. 
---->
- 
-| Actor | Role | Goals | Details |
-| --- | --- | --- | --- |
-| <img src="./images/sponsors/discover_logo.png" width="50" height="50"> | Financial Institution, Content Creator | Generate accessibly complaint content. |  |  
-|  <img src="./images/persona/acme-logo.png" width="50" height="40"> Acme Enterprise |  |  |  |
-| <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica | Designer |  |  | |
-| <img src="./images/persona/Darius.png" width="40" height="40"> Darius | Impaired Person |  |  | |
-| <img src="./images/persona/themebuilder.svg" width="40" height="40"> Atomic Accessibility Design Tool | Theme Builder |  | |
- 
 ## Story
-<!--- Template Instructions   
-  Using the sample persona images in the /images/persona folder, describe the steps that are involved in the interactive use case story. The story below is offered as an exemplar.
---->
+
 
 _Below story show how a visually impaired banking customer perform a specific task with the help of accessible chatbot._
 
@@ -89,9 +50,7 @@ _Below story show how a visually impaired banking customer perform a specific ta
 
 
 ## Demo Workflow
-<!--- Template Instructions   
-  Using the sample persona images in the /images/persona folder, describe the steps of the use case story as they relate to one or more UML Sequence Diagrams.  
---->
+
  
 ### Login
  
